@@ -215,17 +215,17 @@ p{
 
 .hundred{
     width: 265px;
-    background-color: violet;
+    background-color: rgb(218, 56, 218);
 }
 
 .fifty{
     width: 125px;
-    background-color: aqua;
+    background-color: rgb(46, 170, 170);
 }
 
 .t5{
     width: 75px;
-    background-color: yellow;
+    background-color: rgb(218, 218, 124);
 }
 
 .sidebarGo{
